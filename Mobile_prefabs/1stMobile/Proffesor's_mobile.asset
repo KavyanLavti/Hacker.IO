@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e7fd06ce443cf34781c586cb7113407, type: 3}
+  m_Name: Proffesor's_mobile
+  m_EditorClassIdentifier: 
+  pDF_Scriptable_Objects:
+  - {fileID: 11400000, guid: 1f9c81411c0cdd648b6befd4c6aecd12, type: 2}
+  - {fileID: 11400000, guid: 2fc62c56744208b43aed9df2b43446fa, type: 2}
+  - {fileID: 11400000, guid: 23e506669c89287449811a260e8e7658, type: 2}
+  video_Scriptable_Objects: []
+  image_Scriptable_Objects:
+  - {fileID: 11400000, guid: 27bd4a42a8480cc488c0fe5b73796f1f, type: 2}
+  - {fileID: 11400000, guid: df6c08ccbfc6ee24aac656d070373ed7, type: 2}
+  logs_Scriptales:
+  - {fileID: 11400000, guid: 890a7017c711e724094da4fba04a3d43, type: 2}
+  chat_Scriptable_Objects:
+  - {fileID: 11400000, guid: 227f8a910ace44744a295379d674c340, type: 2}
+  - {fileID: 11400000, guid: 38eec793e04c6d640873327a6e9e4b92, type: 2}
+  IP_address: <1.1.112.34>
+  haveProxy: 0
+  proxyLevel: 0
+  haveFirewall: 0
+  FirewallType: 0
+  Fire1wall_codes: []
+  Fire1wall_codes_solution: 
+  Fire2wall_problem: 
+  Fire2wall_problem_solution: 
+  ports:
+  - {fileID: 11400000, guid: 5dd9808ccc0ca664184f256f87159821, type: 2}
+  - {fileID: 11400000, guid: 8a4e6f3c465620342aa426a6d90bb592, type: 2}
+  - {fileID: 11400000, guid: 3702bc22d8f0b4c49afd7c5d19f96a42, type: 2}
+  - {fileID: 11400000, guid: b56a2e276a22f184ca63326b310a7376, type: 2}
+  No_of_ports_needed_to_unlock: 1
+  No_of_ports_unlocked: 1
+  No_of_ports_total: 4
